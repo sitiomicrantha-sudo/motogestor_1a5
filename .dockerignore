@@ -1,8 +1,7 @@
-motogestor/node_modules
-motogestor/.next
+node_modules
+.next
 .git
 .gitignore
-README.md
 .env
 .env.local
 .env.development.local
