@@ -8,6 +8,7 @@ const withPWA = withPWAInit({
 });
 
 const nextConfig: NextConfig = {
+  output: "standalone",
   turbopack: {},
   allowedDevOrigins: ["100.117.203.73", "192.168.1.2"],
 };
